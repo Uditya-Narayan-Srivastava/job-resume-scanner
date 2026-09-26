@@ -80,6 +80,17 @@ The application will open in your browser.
 * Resume improvement suggestions
 * Deployment as a web application
 
+# Job Resume Scanner
+
+> AI-powered resume analyzer built with Python, Streamlit, spaCy, and NLP.
+
+
+##  Live Demo
+
+ **[Try Job Resume Scanner](https://job-resume-scanner-gkq7rdg9ko5jzycjnjfa9h.streamlit.app/)**
+
+
+
 ## Author
 
 Uditya Narayan Srivastava
